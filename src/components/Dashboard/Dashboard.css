@@ -1,0 +1,10 @@
+.dashboard{
+    margin: 20px;
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
